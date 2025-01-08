@@ -13,7 +13,6 @@ been stored in the code.
 • Name  
 • Age  
 • Aadhar Number
-
 • Mobile number  
 • Date of Birth  
 • Address
