@@ -12,7 +12,8 @@ been stored in the code.
 2.Choosing the options which are given below.  
 • Name  
 • Age  
-• Aadhar Number 
+• Aadhar Number
+
 • Mobile number  
 • Date of Birth  
 • Address
